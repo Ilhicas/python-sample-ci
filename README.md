@@ -1,6 +1,6 @@
 ### Simple python project with unittest standart python library to use as a sample for CI environments
 
-- This specific branch mimics a feature branch
+This specific branch mimics a feature branch
 
 Pre-Requisites:
     python 2.7+ | python 3.5+
